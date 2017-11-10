@@ -33,7 +33,7 @@ The player starts the game with the max. 3 stars, losing one star after 15 turn,
 The timer starts to count at the moment the first card is turned. It counts seconds and minutes in a xx:xx format.
 
 ### The results
-The players wons if all the cards are matched. When the game is over a modal appears displaying the results
+The players wins if all the cards are matched. When the game is over a modal appears displaying the results
 of the game including the number of turns, the time and the star rates.
 
 ### The reset button
@@ -45,6 +45,7 @@ The open cards symbols will be hidden and the cards will be shuffled and placed 
 [jQuery 3.2.1 JavaScript library](https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js)
 [Special fonts for the symbols](https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css)
 [Fonts used](https://fonts.googleapis.com/css?family=Coda)
+[The starter code provided by UDACITY (Richard Kalehoff)](https://github.com/udacity/fend-project-memory-game)
 
 ## Contributing
 ---------------
